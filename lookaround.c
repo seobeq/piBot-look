@@ -1,4 +1,4 @@
-// This is my robot control program written in Jan/Feb 2017 by seobeq.
+// This is my obstacle avoidance robot program written in May 2017 by seobeq.
 #include <stdio.h>
 #include <wiringPi.h>
 #include <softPwm.h>
